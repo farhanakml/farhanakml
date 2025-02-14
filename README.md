@@ -10,9 +10,9 @@
 
 <h3>🌱 I’m currently ... </h3>
 <ul>
-  <li>Completing my <strong>final semester & thesis</strong> on <em>fake news classification with data augmentation</em></li>
+  <li>Completing my <strong>final semester & thesis</strong></li>
   <li>Improving my skills through courses and personal projects</li>
-  <li>Learning more about <strong>project management</strong> to enhance leadership skills</li>
+  <li>Exploring and working on <strong>new personal projects</strong> to apply my knowledge and experiment with ideas</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
